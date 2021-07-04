@@ -28,7 +28,7 @@
 
 - 🌱 I’m Full Stack Developer.
 - 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: [Twitter - @rohitjakhar0](https://twitter.com/rohitjakhar0) 
+<!-- - 📫 How to reach me: [Twitter - @rohitjakhar0](https://twitter.com/rohitjakhar0)  -->
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love coding more than sleeping
 
