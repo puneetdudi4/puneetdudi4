@@ -37,7 +37,7 @@
 [![GitHub: rohitjakhar](https://img.shields.io/github/followers/rohitjakhar?label=follow&style=social)](https://github.com/rohitjakhar) -->
 
 
-**Languages and Tools:**  
+<!-- **Languages and Tools:**   -->
 <!-- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
